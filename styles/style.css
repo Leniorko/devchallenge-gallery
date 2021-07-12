@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --default-font: "Montserrat", sans-serif;
+  --bg-color: #e5e5e5;
+  --footer-color: #b9bdcf;
+}
+
+.root {
+  max-width: 1440px;
+}
